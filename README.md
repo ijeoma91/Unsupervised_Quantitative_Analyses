@@ -57,5 +57,4 @@ This project is licensed under the [Ijeoma Anizoba]
 
 # Acknowledgment
 
-Inspiration, code snippets: https://github.com/mr-emreerturk/Mental_Health_in_Tech-Clusterting
-
+Inspiration, code snippets
